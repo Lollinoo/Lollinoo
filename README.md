@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lollinoo
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android Studio/Kotlin
+- 👀 I’m interested in JavaScript Development / Cloud and System Administration
+- 🌱 I’m currently learning Linux and Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
