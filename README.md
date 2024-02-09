@@ -1,4 +1,6 @@
-# 🏄‍♂️ Lollinoo
+![MasterHead](https://yt3.googleusercontent.com/C-9LKefg3y628akMTJICp3BAv0gw1m8Wi4FWxqvMw-ASfsME9blLLO6rlZOJcicqX6BAmZXa=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+<h1 align="center">Hi 👋, I'm Lollissimo</h1>
+
 **`Digital earthling (System Administrator/Developer)`**
 
 I'm an indie system administrator and web developer building my version of the digital world one step at a time. All my documentation is written in such a way as to be accessible to as many people as possible, both beginners and non-beginners. I hope you can find what you need in this repo. Have a great life!
