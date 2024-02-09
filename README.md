@@ -1,5 +1,4 @@
 # 🏄‍♂️ Lollinoo
-
 **`Digital earthling (System Administrator/Developer)`**
 
 I'm an indie system administrator and web developer building my version of the digital world one step at a time. All my documentation is written in such a way as to be accessible to as many people as possible, both beginners and non-beginners. I hope you can find what you need in this repo. Have a great life!
