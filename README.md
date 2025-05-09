@@ -1,4 +1,3 @@
-![MasterHead](https://yt3.googleusercontent.com/C-9LKefg3y628akMTJICp3BAv0gw1m8Wi4FWxqvMw-ASfsME9blLLO6rlZOJcicqX6BAmZXa=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <h1 align="center">Hi 👋, I'm Lollissimo</h1>
 
 **`Digital earthling (System Administrator/Developer)`**
